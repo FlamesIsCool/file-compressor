@@ -1,0 +1,2 @@
+# This file ensures the temp directory is tracked by git but is empty
+# Compressed files generated here will be ignored by .gitignore
